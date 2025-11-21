@@ -17,7 +17,6 @@ C is a powerful and widely used programming language known for its efficiency an
 To set up a working environment for programming in C by installing Ubuntu on VirtualBox and configuring essential tools such as `gedit` (text editor) and `gcc` (compiler).
 
 ---
-
 ## **1. Installing Ubuntu on VirtualBox**
 
 ### **Steps:**
@@ -36,7 +35,6 @@ To set up a working environment for programming in C by installing Ubuntu on Vir
 8. Start the VM and follow the Ubuntu installation steps.
 
 ---
-
 ## **2. Updating Ubuntu**
 
 Once Ubuntu is installed and running:
@@ -45,7 +43,6 @@ Once Ubuntu is installed and running:
 sudo apt update
 sudo apt upgrade
 ```
-
 This ensures all packages are up to date.
 
 ---
@@ -59,16 +56,6 @@ This ensures all packages are up to date.
 ```bash
 sudo apt install gedit
 ```
-
-### **To open gedit:**
-
-```bash
-gedit filename.c &
-```
-
-(The `&` allows gedit to run in the background.)
-
----
 
 ## **4. Installing GCC Compiler**
 
@@ -85,9 +72,8 @@ sudo apt install gcc
 ```bash
 gcc --version
 ```
-
 You should see the GCC version installed on your system.
 
 ---
 
-You are now ready to begin programming in C with a proper development environment!
+**You are now ready to begin programming in C with a proper development environment!**
