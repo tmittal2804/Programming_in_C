@@ -76,4 +76,4 @@ You should see the GCC version installed on your system.
 
 ---
 
-**You are now ready to begin programming in C with a proper development environment!**
+**Ready to begin programming in C with a proper development environment!**
