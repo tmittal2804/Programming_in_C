@@ -26,7 +26,7 @@ You are required to write two programs (or one program with choices) to print th
 
 ### **Output:**
 
-[Image](./images/Loop1output.png)
+![Image](./images/Loop1output.png)
 
 ---
 
@@ -43,11 +43,11 @@ You are required to write two programs (or one program with choices) to print th
 
 ### **Code:**
 
-[Image](./images/Loop2.png)
+![Image](./images/Loop2.png)
 
 ### **Output:**
 
-[Image](./images/Loop2output.png)
+![Image](./images/Loop2output.png)
 
 ---
 
