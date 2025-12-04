@@ -37,6 +37,7 @@ int main() {
 ```
 
 **Output:**
+
 ![Image](./images/Hioutput.png)
 
 ---
