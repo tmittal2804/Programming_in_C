@@ -1,8 +1,6 @@
 /*
-Write a program using the ternary operator in which the user inputs
-the length and breadth of rectangles. The program should determine
-which rectangle has the highest perimeter. The minimum number of
-rectangles should be three.
+Write a program using the ternary operator in which the user inputs the length and breadth of rectangles. The program should determine
+which rectangle has the highest perimeter. The minimum number of rectangles should be three.
 */
 
 #include <stdio.h>
